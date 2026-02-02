@@ -81,8 +81,8 @@ All results are exported as CSV and should be treated as the source-of-truth for
 
 ---
 
-## Figures
-Below are the **two figures** that best summarize the repository without making the README too long:
+## Results
+Below are the **two figures** that best summarize the repository:
 
 1) **Data efficiency comparison** (CNN vs SegFormer)
 
