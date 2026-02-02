@@ -91,11 +91,11 @@ Below are the **two figures** that best summarize the repository:
 
 ---
 
-## Figure - Data efficiency (CNN vs SegFormer)
+### Figure - Data efficiency (CNN vs SegFormer)
 **File:** `outputs/figures/data_efficiency_curve_compare.png`
 ![](outputs/figures/data_efficiency_curve_compare.png)
 
-## Figure - Qualitative comparison (Image + GT + CNN Pred + SegFormer Pred)
+### Figure - Qualitative comparison (Image + GT + CNN Pred + SegFormer Pred)
 **File:** `outputs/figures/val_compare_gt_vs_pred_0_k195.png`
 ![](outputs/figures/val_compare_gt_vs_pred_0_k195.png)
 **File:** `outputs/figures/val_compare_gt_vs_pred_1_k417.png`
