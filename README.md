@@ -1,4 +1,4 @@
-# "Cityscapes CNN vs SegFormer Benchmark"
+# Cityscapes CNN vs SegFormer Benchmark
 ---
 
 ## Overview
