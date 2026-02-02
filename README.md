@@ -1,6 +1,4 @@
----
-title: "Cityscapes CNN vs SegFormer Benchmark"
-output: github_document
+# "Cityscapes CNN vs SegFormer Benchmark"
 ---
 
 ## Overview
@@ -95,6 +93,10 @@ Below are the **two figures** that best summarize the repository without making 
 
 ## Figure 1 — Data efficiency (CNN vs SegFormer)
 **File:** `outputs/figures/data_efficiency_curve_compare.png`
+![](outputs/figures/data_efficiency_curve_compare.png)
 
 ## Figure 2 — Qualitative comparison (Image + GT + CNN Pred + SegFormer Pred)
 **File:** `outputs/figures/val_compare_gt_vs_pred_0_k195.png`
+![](outputs/figures/val_compare_gt_vs_pred_0_k195.png)
+![](outputs/figures/val_compare_gt_vs_pred_1_k417.png)
+![](outputs/figures/val_compare_gt_vs_pred_2_k478.png)
