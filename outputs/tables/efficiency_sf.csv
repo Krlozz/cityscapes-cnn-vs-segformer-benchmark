@@ -1,0 +1,2 @@
+model,latency_ms_per_img,params_m,vram_gb_gpu0,vram_gb_gpu1,vram_gb_gpu2
+SegFormer,154.3169140815735,3.719027,0.6385135650634766,0.0,0.0

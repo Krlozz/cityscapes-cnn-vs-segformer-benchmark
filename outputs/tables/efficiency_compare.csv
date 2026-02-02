@@ -1,0 +1,3 @@
+model,latency_ms_per_img,params_m,vram_gb_gpu0,vram_gb_gpu1,vram_gb_gpu2
+CNN (DeepLabV3),167.93283224105835,39.638355,1.347825050354004,0.0,0.0
+SegFormer,154.3169140815735,3.719027,0.6385135650634766,0.0,0.0

@@ -1,0 +1,5 @@
+pct,best_val_miou,best_val_acc,cnn_ckpt,cnn_hist
+10,0.597107470035553,0.9341671690535034,C:\Users\ALLAN TURING\Documents\ProyectoTE_AyalaMacias\outputs\checkpoints\best_cnn_pct10.pth,C:\Users\ALLAN TURING\Documents\ProyectoTE_AyalaMacias\outputs\logs\history_cnn_pct10.csv
+25,0.6581013202667236,0.9435626583613458,C:\Users\ALLAN TURING\Documents\ProyectoTE_AyalaMacias\outputs\checkpoints\best_cnn_pct25.pth,C:\Users\ALLAN TURING\Documents\ProyectoTE_AyalaMacias\outputs\logs\history_cnn_pct25.csv
+50,0.7000958323478699,0.9494585104010884,C:\Users\ALLAN TURING\Documents\ProyectoTE_AyalaMacias\outputs\checkpoints\best_cnn_pct50.pth,C:\Users\ALLAN TURING\Documents\ProyectoTE_AyalaMacias\outputs\logs\history_cnn_pct50.csv
+100,0.7217209339141846,0.9528476710590452,C:\Users\ALLAN TURING\Documents\ProyectoTE_AyalaMacias\outputs\checkpoints\best_cnn_pct100.pth,C:\Users\ALLAN TURING\Documents\ProyectoTE_AyalaMacias\outputs\logs\history_cnn_pct100.csv

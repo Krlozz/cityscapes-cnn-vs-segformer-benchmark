@@ -1,0 +1,29 @@
+{
+  "splits_written": true,
+  "cnn_done": {
+    "10": true,
+    "25": true,
+    "50": true,
+    "100": true
+  },
+  "cnn_data_eff_done": true,
+  "curve_cnn_done": true,
+  "eff_cnn_done": true,
+  "vis_cnn_done": true,
+  "corr_cnn_done": true,
+  "sf_done": {
+    "10": true,
+    "25": true,
+    "50": true,
+    "100": true
+  },
+  "sf_data_eff_done": true,
+  "curve_sf_done": true,
+  "eff_sf_done": true,
+  "vis_sf_done": true,
+  "corr_sf_done": true,
+  "curve_compare_done": true,
+  "eff_compare_done": true,
+  "vis_compare_done": true,
+  "corr_compare_done": true
+}
